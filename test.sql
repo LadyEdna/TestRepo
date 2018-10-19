@@ -2,7 +2,7 @@
 
 declare
 
-..
+  gruss varchar2(20);
 
 begin
 
